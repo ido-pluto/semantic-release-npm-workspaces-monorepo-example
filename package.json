@@ -13,6 +13,6 @@
     }
   },
   "devDependencies": {
-    "semantic-release-npm-workspaces-monorepo": "^1.0.0"
+    "semantic-release-npm-workspaces-monorepo": "^1.1.2"
   }
 }
